@@ -27,22 +27,27 @@
 	</properties>
 
 	<!-- Maven仓库定义 -->
+	<!--
 	<repositories>
         <repository>
             <id>kafeitu</id>
             <url>http://maven.kafeitu.me:8081/nexus/content/groups/public</url>
         </repository>
+        -->
+        
         <!-- Activiti的仓库 -->
+        <!--
 		<repository>
 			<id>Activiti</id>
 			<url>https://maven.alfresco.com/nexus/content/repositories/activiti</url>
 		</repository>
-
+-->
 		<!-- Codehaus的仓库 -->
+		<!--
 		<repository>
 			<id>Codehaus</id>
 			<url>http://repository.codehaus.org</url>
-		</repository>
+		</repository>-->
 	</repositories>
 
 	<modules>
