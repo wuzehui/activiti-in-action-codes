@@ -47,9 +47,9 @@
 		<repository>
 			<id>Codehaus</id>
 			<url>http://repository.codehaus.org</url>
-		</repository>-->
+		</repository>
 	</repositories>
-
+-->
 	<modules>
 		<module>bpmn20-example</module>
 		<module>chapter5-oa-manager</module>
